@@ -1,0 +1,2 @@
+# Synthesizing_minority_class_using_GAN-s
+Synthesizing_minority_class_using_GAN's
